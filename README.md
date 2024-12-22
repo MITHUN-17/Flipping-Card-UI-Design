@@ -48,7 +48,7 @@ Interactive UI projects
 <h2>Output</h2>
 <hr>
 <p>
-<img src="https://github.com/MITHUN-17/Flipping-Card-UI-Design/blob/cea9710d85fa6d5ec37a7dc6f3e2747243b33952/Output/01.png" alt="Front View" width="30%">
+<img src="https://github.com/MITHUN-17/Flipping-Card-UI-Design/blob/cea9710d85fa6d5ec37a7dc6f3e2747243b33952/Output/01.png](https://github.com/MITHUN-17/Flipping-Card-UI-Design/blob/b5701b1f03705560377d5e0454609eb5a48f5e5b/Output/01.png" alt="Front View" width="30%">
 <img src="https://github.com/MITHUN-17/Flipping-Card-UI-Design/blob/cea9710d85fa6d5ec37a7dc6f3e2747243b33952/Output/03.png" alt="Back View" width="30%">
 <img src="https://github.com/MITHUN-17/Flipping-Card-UI-Design/blob/cea9710d85fa6d5ec37a7dc6f3e2747243b33952/Output/02.png" alt="Card Flip in Action" width="30%">
 </p>
